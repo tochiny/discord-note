@@ -3,7 +3,7 @@ from discord.ext import commands
 
 import Message
 
-TOKEN = "OTY3MDQ5NTM2ODA5ODc3NTA0.GOHIn1.l2iNI15MeeInOIUM9WTjlhBpghliALOjddInvc"
+TOKEN = ""
 PREFIX = "!"
 
 cogs = [Message]
